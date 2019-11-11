@@ -11,6 +11,7 @@ set shiftwidth=4
 set wildmode=longest,list
 "set fdm=marker
 set smartindent
+syntax on
 
 set formatoptions+=or
 " o = format after pressing o or O
